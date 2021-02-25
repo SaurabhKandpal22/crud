@@ -1,0 +1,84 @@
+body{
+    font-family: 'Akaya Telivigala', cursive;
+}
+.container{
+    padding: 20px;
+    
+}
+.table{
+    width: 100%;
+    text-align: center;
+    padding: 30px;
+    margin-top: 50px;
+    height: 500px;
+    border-radius: 16px;
+    background: bisque;
+    box-shadow: 1px 1px 7px 5px brown;
+
+}
+.tr{
+    font-size: 28px;
+    
+}
+.view{
+    font-size: 19px;
+    border-radius: 10px;
+    margin: 0px 14px;
+    background-color: skyblue;
+    border: 2px solid black;
+    cursor: pointer;
+}
+.view:hover{
+    background-color: gray;
+}
+.input_post_form{
+    width: 75%;
+    height: 27px;
+    padding: 10px;
+    border-radius: 17px;
+    border: 2px solid black;
+    margin-left: 25px;
+    font-size: 24px ;
+
+
+}
+.but {
+    border-radius: 10px;
+    font-size: 28px;
+    margin-top: 0px;
+    background-color: powderblue;
+    margin-left: 53px;
+    border: 2px solid powderblue;
+    box-shadow: 2px 3px 3px 0px black;
+    cursor: pointer;
+}
+.but:hover{
+    background-color: gray;
+}
+#form_table{
+    margin-top: 26px;
+}
+.newe{
+    font-size: 29px;
+    border-radius: 15px;
+    /* text-align: center; */
+    margin-left: 46px;
+}
+#continue{
+    font-size: 25px;
+    border-radius: 12px;
+    background-color: cadetblue;
+    cursor: pointer;
+    border: 2px solid black;
+    margin-left: 20px;
+}
+#continue:hover{
+    background-color: burlywood;
+}
+.no {
+    font-size: 31px;
+    margin-left: 10px;
+}
+.no:hover{
+    background-color:burlywood;
+}
